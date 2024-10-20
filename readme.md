@@ -16,6 +16,7 @@ LICENSE:[MIT](./license.md)
 7. [git commit](./git%20commit.md)
 8. [git status](./git%20status.md)
 9. [git log](./git%20log.md)
+10. [git push](./git%20push.md)
 10. [git help](./git%20help.md)
 
 
