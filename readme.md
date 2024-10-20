@@ -7,9 +7,16 @@ LICENSE:[MIT](./license.md)
 ---
 
 ### Содержание
-1. [Что такое git](./Что%20такое%20GIT.md)
-2. [Возможности git](./возможности.md)
-3. [git add](./add.md)
+1. [Что такое Git](./Что%20такое%20GIT.md)
+2. [Возможности Git](./возможности.md)
+3. [Репозиторий Git](./репозиторий.md)
+4. [git config](./git%20config.md)
+5. [git init](./git%20init.md)
+6. [git add](./add.md)
+7. [git commit](./git%20commit.md)
+8. [git status](./git%20status.md)
+9. [git log](./git%20log.md)
+10. [git help](./git%20help.md)
 
 
 ---
