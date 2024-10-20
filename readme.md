@@ -1,23 +1,20 @@
 # Инструкция по работе с GIT
-
 LICENSE:[MIT](./license.md)
 
 ![](./assets/Git-Logo-2Color.png)
-
 ---
-
 ### Содержание
-1. [Что такое Git](./Что%20такое%20GIT.md)
+1. [Что такое Git](./Что_такое_GIT.md)
 2. [Возможности Git](./возможности.md)
 3. [Репозиторий Git](./репозиторий.md)
-4. [git config](./git%20config.md)
-5. [git init](./git%20init.md)
+4. [git config](./config.md)
+5. [git init](./init.md)
 6. [git add](./add.md)
-7. [git commit](./git%20commit.md)
-8. [git status](./git%20status.md)
-9. [git log](./git%20log.md)
-10. [git push](./git%20push.md)
-10. [git help](./git%20help.md)
+7. [git commit](./commit.md)
+8. [git status](./status.md)
+9. [git log](./log.md)
+10. [git push](./push.md)
+10. [git help](./help.md)
 
 
 ---
